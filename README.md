@@ -1,0 +1,2 @@
+# Fatiguedataset
+ansys generate Fatiguedataset
